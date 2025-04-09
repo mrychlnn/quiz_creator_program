@@ -15,7 +15,15 @@ while True:
         if category not in ["math", "english", "science", "filipino"]: 
             print("\nInvalid category. Choose from Math, English, Science, or Filipino.")
             continue
-    
+
+        file_name = f"{category}.txt"
+        
+        num = int(input("\nHow many question/s do you want to enter?"))
+
+        for i in range(num):
+            print(f"\nQuestion {i + 1} of {num}")
+            question = input("Enter the question: ")
+
     if choice == "2":
         print("\nExiting the program... The entered data saved.")
         break 
