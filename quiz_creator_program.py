@@ -18,11 +18,16 @@ while True:
 
         file_name = f"{category}.txt"
         
-        num = int(input("\nHow many question/s do you want to enter?"))
+        num = int(input("\nHow many question/s do you want to enter? "))
 
         for i in range(num):
             print(f"\nQuestion {i + 1} of {num}")
             question = input("Enter the question: ")
+            choice_a = input("Enter the choice a: ")
+            choice_b = input("Enter the choice b: ")
+            choice_c = input("Enter the choice c: ")
+            choice_b = input("Enter the choice d: ")
+            correct_answer = input("What is the correct answer (a, b, c, d)? ")
 
     if choice == "2":
         print("\nExiting the program... The entered data saved.")
