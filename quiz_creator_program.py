@@ -15,3 +15,7 @@ while True:
         if category not in ["math", "english", "science", "filipino"]: 
             print("\nInvalid category. Choose from Math, English, Science, or Filipino.")
             continue
+    
+    if choice == "2":
+        print("\nExiting the program... The entered data saved.")
+        break 
