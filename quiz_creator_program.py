@@ -19,3 +19,6 @@ while True:
     if choice == "2":
         print("\nExiting the program... The entered data saved.")
         break 
+
+    else:
+        print("\nInvalid input. Choose between 1 or 2.")
