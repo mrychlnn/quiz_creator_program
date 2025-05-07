@@ -1,0 +1,21 @@
+Question: Ano ang tagalog ng salitang "happy"?
+a) malungkot
+b) masaya
+c) galit
+d) umiiyak
+Correct answer: b
+-----
+Question: Ano ang tagalog ng salitang "angry"?
+a) galit
+b) natutuwa
+c) naiiyak
+d) nalulungkot
+Correct answer: a
+-----
+Question: Ano ang tagalog ng salitang "sad"?
+a) naiinis
+b) natatawa
+c) nagagalit
+d) malungkot
+Correct answer: d
+-----
